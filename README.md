@@ -1,3 +1,3 @@
 # Nlw-Copa
 
-Esse foi um desafil feito pela rocketseat que eu sempre costumo participar!
+Esse foi um desafio feito pela rocketseat que eu sempre costumo participar!
